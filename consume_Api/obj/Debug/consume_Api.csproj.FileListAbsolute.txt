@@ -1,0 +1,10 @@
+C:\Users\mis\source\repos\consume_Api\consume_Api\bin\Debug\consume_Api.exe
+C:\Users\mis\source\repos\consume_Api\consume_Api\bin\Debug\consume_Api.pdb
+C:\Users\mis\source\repos\consume_Api\consume_Api\obj\Debug\consume_Api.csprojAssemblyReference.cache
+C:\Users\mis\source\repos\consume_Api\consume_Api\obj\Debug\consume_Api.Form1.resources
+C:\Users\mis\source\repos\consume_Api\consume_Api\obj\Debug\consume_Api.Properties.Resources.resources
+C:\Users\mis\source\repos\consume_Api\consume_Api\obj\Debug\consume_Api.csproj.GenerateResource.cache
+C:\Users\mis\source\repos\consume_Api\consume_Api\obj\Debug\consume_Api.csproj.CoreCompileInputs.cache
+C:\Users\mis\source\repos\consume_Api\consume_Api\obj\Debug\consume_Api.csproj.CopyComplete
+C:\Users\mis\source\repos\consume_Api\consume_Api\obj\Debug\consume_Api.exe
+C:\Users\mis\source\repos\consume_Api\consume_Api\obj\Debug\consume_Api.pdb
